@@ -1,5 +1,3 @@
- 
-https://www.coursera.org/specializations/data-mining   伊利诺伊大学University of Illinois
 1、Data Visualization  数据可视化
 2、Text Retrieval and Search Engines文本检索与搜索引擎
 3、Text Mining and Analytics 文本挖掘与分析
